@@ -11,7 +11,7 @@ body {
 	font-size: 18px;
 	line-height: 32px;
 	background-color: #777;
-	font-family: Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	width: 960px;
 	}
 
@@ -76,7 +76,6 @@ section {
 	height: 350px;
 /*	border: 2px;
 	margin-left: */
-
 }
 
 footer {
